@@ -65,3 +65,12 @@ QR-Code-Generator/
 B.Tech – Computer Science and Engineering (Data Science)
 
 Geethanjali College of Engineering and Technology
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](home.png)
+
+### Generated QR Code
+
+![Generated QR Code](generated-qr.png)
